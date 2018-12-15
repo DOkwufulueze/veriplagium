@@ -1,0 +1,23 @@
+{
+  "name": "veriplagium",
+  "version": "1.0.0",
+  "description": "Checks for plagiarism within a text",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DOkwufulueze/veriplagium.git"
+  },
+  "keywords": [
+    "verify",
+    "check"
+  ],
+  "author": "Daniel Okwufulueze",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DOkwufulueze/veriplagium/issues"
+  },
+  "homepage": "https://github.com/DOkwufulueze/veriplagium#readme"
+}
